@@ -14,6 +14,7 @@ const bot = new TelegramBot(Evn.TOKEN, {polling: true});
 const webAppUrl = 'https://cliniceco.ru/';
 
 bot.setMyCommands([
+  {command: '/start', description: 'На главную'},
   {command: '/site', description: 'Наш сайт'},
   {command: '/instagramm', description: 'Instagramm'},
   {command: '/tg', description: 'Телеграмм канал'},
