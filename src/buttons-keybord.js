@@ -70,6 +70,6 @@ commands:{
     instagramm: {text:`${texts.instagramm}`,url:'https://www.instagram.com/eco.clinic/'},
     tg:{text:`${texts.tg}`,url:'https://t.me/ecoclinic'},
     online:{text:`${texts.online}`,url:'https://cliniceco.ru/online-zapis/'},
-    progbot:{text:`${texts.progbot}`,url:'https://cliniceco.ru/'},
+    progbot:{text:`${texts.progbot}`,url:'https://t.me/cliniceco_bot'},
 },
 }
