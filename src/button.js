@@ -7,7 +7,7 @@ start:[
   [kb.start.full],
   [kb.start.light],
   [kb.start.gelch],
-  [kb.start.duodzond],
+  //[kb.start.duodzond],
   [kb.start.vrt],
 ],
 
